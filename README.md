@@ -13,40 +13,24 @@ and production support.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Professional Skills
 
-### Backend & .NET
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" title="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=dotnetcore" width="50" height="50" title="ASP.NET Core" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" title="ASP.NET MVC" />
+  <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" title="ReactJS" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" title="jQuery" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="50" height="50" title="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" title="Postman" />
+</p>
 
-- C#
-- ASP.NET
-- ASP.NET Core
-- ASP.NET MVC
-- RESTful APIs
-- Web Services
-- Entity Framework
-- LINQ
-
-### Frontend
-
-- Angular
-- ReactJS
-- AngularJS
-- JavaScript
-- TypeScript
-- jQuery
-- AJAX
-- HTML5
-- CSS3
-
-### Database
-
-- Microsoft SQL Server
-- T-SQL
-- Stored Procedures
-- Functions
-- Triggers
-- SQL Jobs
-- Database Optimization
+---
 
 ### Integrations
 
