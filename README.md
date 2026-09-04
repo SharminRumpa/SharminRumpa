@@ -47,6 +47,16 @@ third-party integrations, deployment, and production support.
 
 ### Let's Connect
 
-- 💼 LinkedIn: [Sharmin Akter](https://www.linkedin.com/in/sharmin-rumpa-27b4b4164/)
-- 💻 GitHub: [SharminRumpa](https://github.com/SharminRumpa)
-- 📧 Email: sharminakterrumpa@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharmin-rumpa-27b4b4164/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharmin%20Akter-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="mailto:sharminakterrumpa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://sharminrumpa.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Sharmin%20Rumpa-purple?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
