@@ -47,16 +47,18 @@ third-party integrations, deployment, and production support.
 
 ### Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sharmin-rumpa-27b4b4164/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sharmin%20Akter-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp; &nbsp; &nbsp;
   <a href="mailto:sharminakterrumpa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://sharminrumpa.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Sharmin%20Rumpa-purple?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
